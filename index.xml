@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MRX Scripts" commit="219fe6c3052dbbb86f17de5a025dea30c4fa622b">
+<index version="1" name="MRX Scripts" commit="7522960757a079554256be97fd7843dd72f9ae97">
   <category name="Editing">
     <reapack name="MRX_Hello_World.lua" type="script" desc="MRX Hello world">
       <metadata>
@@ -13,6 +13,10 @@
       </metadata>
       <version name="1.0" author="Ben Kersten" time="2021-06-03T05:46:18Z">
         <source main="main">https://github.com/benmrx/Reaper_Scripts/raw/219fe6c3052dbbb86f17de5a025dea30c4fa622b/Editing/MRX_Hello_World.lua</source>
+      </version>
+      <version name="1.1" author="Ben Kersten" time="2021-06-03T05:56:05Z">
+        <changelog><![CDATA[This is the changelog text]]></changelog>
+        <source main="main">https://github.com/benmrx/Reaper_Scripts/raw/7522960757a079554256be97fd7843dd72f9ae97/Editing/MRX_Hello_World.lua</source>
       </version>
     </reapack>
   </category>
