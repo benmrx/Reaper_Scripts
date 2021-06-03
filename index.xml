@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="MRX Scripts" commit="05a9cdb20f31179d9f96220971c7a4d15cf60981">
+<index version="1" name="MRX Scripts" commit="219fe6c3052dbbb86f17de5a025dea30c4fa622b">
+  <category name="Editing">
+    <reapack name="MRX_Hello_World.lua" type="script" desc="MRX Hello world">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is the initial About text\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Ben Kersten" time="2021-06-03T05:46:18Z">
+        <source main="main">https://github.com/benmrx/Reaper_Scripts/raw/219fe6c3052dbbb86f17de5a025dea30c4fa622b/Editing/MRX_Hello_World.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
