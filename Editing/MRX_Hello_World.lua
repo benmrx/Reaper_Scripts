@@ -5,6 +5,6 @@
 --   This is the initial About text
 --
 -- @changelog
--- This is the Changelog
+--    #This is the Changelog
 
 reaper.ShowConsoleMsg 'MRX - Hello World! - v1.3'
